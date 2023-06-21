@@ -9,7 +9,9 @@ export default function Info() {
             <div className="info-container">
                 <h1>Vish Singh</h1>
                 <p className="role">Web Developer</p>
-                <p className="portfolio">Portfolio</p>
+                <a className="portfolio-link" target="blank" href="https://vish213-portfolio-v3.netlify.app/">
+                    <p className="portfolio">Portfolio</p>
+                </a>
                 <div className="buttons">
                     <button className="em-btn"><img src={email}/>Email</button>
                     <button className="li-btn"><img src={linkedin}/>LinkedIn</button>

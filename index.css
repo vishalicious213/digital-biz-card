@@ -35,6 +35,10 @@ h1 {
     font-size: .75rem;
 }
 
+.portfolio-link {
+    color: rgb(105, 105, 105);
+}
+
 .portfolio {
     color: #F5F5F5;
     margin: .5rem 0 0;
@@ -66,7 +70,17 @@ button {
     background-color: #D1D5DB;
 }
 
+.em-btn:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
 .li-btn {
     color: white;
     background-color: #5093E2;
+}
+
+.li-btn:hover {
+    background-color: #4698f7;
+    cursor: pointer;
 }
