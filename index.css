@@ -3,8 +3,10 @@
 }
 
 html, body {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    max-width: 320px;
+    background-color: #23252C;
 }
 
 .profile-pic {
