@@ -12,6 +12,7 @@ html, body {
 
 body {
     background-color: #1A1B21;
+    border-radius: 1rem;
 }
 
 .container {
@@ -22,6 +23,8 @@ body {
 
 .profile-pic {
     width: 100%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
 }
 
 .info-container {
@@ -128,4 +131,6 @@ footer {
     display: flex;
     justify-content: space-around;
     background-color: #161619;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
