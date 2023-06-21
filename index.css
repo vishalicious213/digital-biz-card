@@ -21,3 +21,21 @@ html, body {
 .profile-pic {
     width: 100%;
 }
+
+h1 {
+    color: white;
+    margin: 1.25rem 0 0;
+    font-size: 1.5rem;
+}
+
+.role {
+    color: #F3BF99;
+    margin: .1rem 0 0;
+    font-size: .75rem;
+}
+
+.portfolio {
+    color: #F5F5F5;
+    margin: .5rem 0 0;
+    font-size: .6rem;
+}

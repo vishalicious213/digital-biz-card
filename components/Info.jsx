@@ -5,8 +5,8 @@ export default function Info() {
         <section className="info-section">
             <img className="profile-pic" src={vish} alt="Vish Singh" />
             <h1>Vish Singh</h1>
-            <p>Web Developer</p>
-            <p>Portfolio</p>
+            <p className="role">Web Developer</p>
+            <p className="portfolio">Portfolio</p>
             <div>
                 <button>Email</button>
                 <button>LinkedIn</button>
