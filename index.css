@@ -10,6 +10,14 @@ html, body {
     font-family: 'Inter', sans-serif;
 }
 
+body {
+    background-color: #1A1B21;
+}
+
+.container {
+    padding: 0 2rem;
+}
+
 /* INFO */
 
 .profile-pic {
@@ -48,7 +56,7 @@ h1 {
 /* INFO BUTTONS */
 
 .buttons {
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 1.5rem;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -101,6 +109,6 @@ h2 {
 
 .text-detail {
     color: #DCDCDC;
-    font-size: .825rem;
+    font-size: .7rem;
     margin: 0 0 1.5rem;
 }
