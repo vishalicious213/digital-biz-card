@@ -2,7 +2,7 @@ import vish from "/vish.jpg"
 
 export default function Info() {
     return (
-        <>
+        <section className="info-section">
             <img className="profile-pic" src={vish} alt="Vish Singh" />
             <h1>Vish Singh</h1>
             <p>Web Developer</p>
@@ -11,6 +11,6 @@ export default function Info() {
                 <button>Email</button>
                 <button>LinkedIn</button>
             </div>
-        </>
+        </section>
     )
 }
