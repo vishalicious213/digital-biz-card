@@ -116,7 +116,8 @@ h2 {
 /* FOOTER */
 
 footer {
-    padding: 1rem 2rem;
+    padding: 1rem 4rem;
     display: flex;
     justify-content: space-around;
+    background-color: #161619;
 }
