@@ -7,6 +7,7 @@ html, body {
     padding: 0;
     max-width: 320px;
     background-color: #23252C;
+    font-family: 'Inter', sans-serif;
 }
 
 .profile-pic {
