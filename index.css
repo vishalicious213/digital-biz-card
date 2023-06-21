@@ -52,6 +52,10 @@ h1 {
     justify-content: space-around;
 }
 
+.buttons a {
+    text-decoration: none;
+}
+
 button {
     width: 7.5rem;
     outline: none;

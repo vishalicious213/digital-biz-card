@@ -14,7 +14,9 @@ export default function Info() {
                 </a>
                 <div className="buttons">
                     <button className="em-btn"><img src={email}/>Email</button>
-                    <button className="li-btn"><img src={linkedin}/>LinkedIn</button>
+                    <a target="blank" href="https://www.linkedin.com/in/vish213/">
+                        <button className="li-btn"><img src={linkedin}/>LinkedIn</button>
+                    </a>
                 </div>
             </div>
         </>
