@@ -12,14 +12,15 @@ html, body {
 
 /* INFO */
 
-.info-section {
+.profile-pic {
+    width: 100%;
+}
+
+.info-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.profile-pic {
-    width: 100%;
+    padding: 0 2rem;
 }
 
 h1 {
@@ -38,4 +39,15 @@ h1 {
     color: #F5F5F5;
     margin: .5rem 0 0;
     font-size: .6rem;
+}
+
+.buttons {
+    margin: 1rem 0 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 7rem;
 }
