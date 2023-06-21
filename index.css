@@ -53,6 +53,14 @@ h1 {
     font-size: .6rem;
 }
 
+.portfolio:hover {
+    color: white;
+}
+
+.portfolio-link:hover {
+    color: #F5F5F5;
+}
+
 /* INFO BUTTONS */
 
 .buttons {
